@@ -1,10 +1,16 @@
 # ✨ Aura — AI Resume Analyzer
 
 <p align="center">
-  <img src="./public/aura_ui_mockup.png" alt="Aura AI Resume Analyzer Mockup" width="100%" style="border-radius: 16px; border: 1px solid #ddd6fe; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.12);" />
+  <img src="./public/aura_screenshots.png" alt="Aura AI Resume Analyzer Live Interface" width="100%" style="border-radius: 16px; border: 1px solid #ddd6fe; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.12);" />
 </p>
 
-A premium, portfolio-ready Applicant Tracking System (ATS) optimizer and career coach powered by Google Gemini AI. Built using React.js (Vite), Tailwind CSS v3, and Framer Motion. 
+### 📱 Visual Interface Walkthrough
+
+1. **Sleek Hero Header (Top)**: Features an interactive sticky navigation bar with a blur glassmorphism background, logo branding, and smooth-scrolling shortcuts. The headline `"Analyze Your Resume with AI"` uses an animated purple-violet gradient with floating translucent shapes drifting in the background.
+2. **Dual Input Workspace (Bottom)**: Provides candidates with side-by-side white-themed cards. On the left, a tabbed interface allows seamless switching between local drag-and-drop PDF parsing (powered by `pdfjs-dist`) and direct LinkedIn Profile URL inputs. On the right, a large textarea accepts targeted job descriptions with active character counts.
+3. **Attribution Footer (Middle)**: A bold dark-purple (`#4c1d95`) footer block featuring "Made by Nandini Soni" and direct-contact icon triggers mapped to your professional LinkedIn and Gmail accounts.
+
+--- 
 
 Aura parses PDF resumes locally in your browser, evaluates professional profile structures against job descriptions, identifies matched/missing keyword criteria, and delivers actionable career suggestions to maximize your interview conversion rate.
 

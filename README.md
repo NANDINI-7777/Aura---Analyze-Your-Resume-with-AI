@@ -1,5 +1,9 @@
 # ✨ Aura — AI Resume Analyzer
 
+<p align="center">
+  <img src="./public/aura_ui_mockup.png" alt="Aura AI Resume Analyzer Mockup" width="100%" style="border-radius: 16px; border: 1px solid #ddd6fe; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.12);" />
+</p>
+
 A premium, portfolio-ready Applicant Tracking System (ATS) optimizer and career coach powered by Google Gemini AI. Built using React.js (Vite), Tailwind CSS v3, and Framer Motion. 
 
 Aura parses PDF resumes locally in your browser, evaluates professional profile structures against job descriptions, identifies matched/missing keyword criteria, and delivers actionable career suggestions to maximize your interview conversion rate.
